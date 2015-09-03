@@ -7,7 +7,7 @@
   <table>
    <thead>
    <?php echo '<tr><th>'.implode('</th><th>', $this->header_columns).'</th></tr>'; ?>
-   <thead>
+   </thead>
    <tbody>
      <?php foreach($this->row_data as $row): ?>
         <?php echo '<tr><td>'.implode('</td><td>', $row).'</td></tr>'; ?>
