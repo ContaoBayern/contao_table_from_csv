@@ -7,7 +7,7 @@ Zur Motivation siehe https://community.contao.org/de/showthread.php?58333-Tabell
 
 ## Installation
 
-* ER ist veraltet
+* ER ist veraltet und diese Demo ist keine echte "Extension"
 * Composer ist für eine Mini-Demo etwas übertrieben (kommt vielleicht später)
 
 * alle Dateien und Ordner in eine Contao Installation in einen Unterordner von `system/modules` kopieren
