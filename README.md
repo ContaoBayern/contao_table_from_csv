@@ -7,10 +7,9 @@ Zur Motivation siehe https://community.contao.org/de/showthread.php?58333-Tabell
 
 ## Installation
 
-* ER ist veraltet und diese Demo ist keine echte "Extension"
-* Composer ist für eine Mini-Demo etwas übertrieben (kommt vielleicht später)
+momentan nur "von Hand":
 
-* alle Dateien und Ordner in eine Contao Installation in einen Unterordner von `system/modules` kopieren
+* alle Dateien und Ordner in eine Contao Installation in einen Ordner `system/modules/table_from_csv` kopieren
 * Im Backend die "Datenbank aktualisieren"
 * Nun sollten bei den Inhaltselementen "Tabelle aus CSV Datei" auftauchen 
 * Im Inhaltselement kann dann eine CSV-Datei ausgewählt werden, die im Frontend als HTML-Tabelle dargestellt wird
