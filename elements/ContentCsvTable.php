@@ -25,7 +25,7 @@ class ContentCsvTable extends \ContentElement
 
 
 	/**
-	 * Return if the image does not exist
+	 * Return if the data file does not exist
 	 * @return string
 	 */
 	public function generate()
